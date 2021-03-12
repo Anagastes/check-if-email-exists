@@ -2,6 +2,8 @@
 
 Check if an email address exists before sending the email. Uses Telnet.
 
+I have created this fork from https://github.com/reacherhq/check-if-email-exists because it is completely sufficient and simple for my areas of application, according to the KISS principle ;).
+
 ## Why?
 
 Many online services (https://hunter.io, http://verify-email.org, http://email-checker.net) offer this service for a paid fee. Here is an open-source alternative to those tools.
